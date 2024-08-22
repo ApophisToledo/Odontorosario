@@ -83,7 +83,7 @@ header{
 #titulo{
 	align-items: center;
 	text-align: center;
-	
+	position: static;
 	
 	background-color: rgba(27, 7, 1, 0.623);
 	width: 100%;
